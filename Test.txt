@@ -1,3 +1,5 @@
-Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu 
-Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu 
-Tao toang roi m oi huhuhuh Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu Dat wibu 
+git init
+git remote add origin https://github.com/huyendo25/bloblaaaaaaaaaaa
+git add .
+git commit -m "whatever"
+git push -u origin master
